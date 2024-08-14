@@ -1,2 +1,0 @@
-# WebDev
-Web Development Practice
